@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+requests
+pandas
+Flask_Track_Usage
